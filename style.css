@@ -1,8 +1,26 @@
 body {
-    background-color: lightblue;
+    background-color: DarkRed;
 }
 
 h1 {
-    color: navy;
-    margin-left: 20px;
+    color: AliceBlue ;
+    font-family: "Trebuchet MS";
+}
+
+
+h4 {
+	font-family: "Trebuchet MS";
+	color: AliceBlue ;
+
+}
+
+
+h5 {
+	font-family: "Trebuchet MS";
+	color: AliceBlue ;
+}
+
+p{
+	font-family: "Trebuchet MS";
+	color: AliceBlue ;
 }
